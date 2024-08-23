@@ -1,0 +1,115 @@
+{
+  "section": [
+    {
+      "id": "explore-section",
+      "class": "explore-world",
+      "h2": {
+        "class": "title",
+        "text": "Explore the world of management"
+      },
+      "p": {
+        "class": "projec",
+        "text": "As a project manager, you play an important role in learning a project through initiation, planning, executing, managing, containing, and completion. How? Do you want to manage each and every step of your life?"
+      }
+    },
+    {
+      "id": "description-section",
+      "class": "box-info",
+      "h2": {
+        "class": "title1",
+        "text": "Technology Project Management"
+      },
+      "p": {
+        "class": "tech-proj",
+        "text": "<b>Description</b>: Study of alignment scope of agile-specific accountable staggering approach"
+      },
+      "ytlink": {
+        "class": "iframe",
+        "src": "https://www.youtube.com/embed/igiTFm_rP4E?si=VCsobWz1Fiwaq64C"
+      }
+    },
+    {
+      "id": "build-section",
+      "class": "box-info",
+      "h2": {
+        "class": "threadd",
+        "text": "Threadbuild"
+      },
+      "p": {
+        "class": "threadbuild",
+        "text": "<b>Description</b>: Watch live video and thread build, and jot out key threads while watching that video."
+      },
+      "input": {
+        "class": "input",
+        "type": "text",
+        "placeholder": "Enter Text Here"
+      },
+      "select": [
+        {
+          "class": "btn",
+          "name": "category",
+          "options": [
+            "Select categ",
+            "Option 1",
+            "Option 2"
+          ]
+        },
+        {
+          "class": "btn",
+          "name": "process",
+          "options": [
+            "Select process",
+            "Option 1",
+            "Option 2"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "structure-section",
+      "class": "box-info1",
+      "h2": {
+        "class": "struct",
+        "text": "Structure your pointers"
+      },
+      "p": {
+        "class": "struct-descp",
+        "text": "<b>Description</b>: Write a 300-400 word article from your thread. Publish your understanding and showcase your understanding to the entire world."
+      },
+      "input": {
+        "class": "title-input",
+        "type": "textarea",
+        "placeholder": "Write your article here..."
+      },
+      "list": {
+        "class": "upper",
+        "items": [
+          "File",
+          "Edit",
+          "View",
+          "Insert",
+          "Format",
+          "Tool",
+          "Table",
+          "Help"
+        ]
+      }
+    },
+    {
+      "id": "4sa-section",
+      "class": "box-info1",
+      "h2": {
+        "class": "4sa-method",
+        "text": "4SA Method"
+      },
+      "p": {
+        "class": "4sa-descp",
+        "text": "<b>Description</b>: Study of alignment scope of agile-specific accountable staggering approach"
+      },
+      "a": {
+        "href": "https://dtthon.deepthought.education/sharer?id=01aa3cff-db8e-8d9d-afc0-1671715937878",
+        "text": "Read More"
+      }
+    }
+  ]
+}
